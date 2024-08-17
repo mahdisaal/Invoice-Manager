@@ -1,7 +1,5 @@
 # Invoice Manager
-- Name: Huijie Ren
-- Student Number: 041078506
-- Section Number: 302
+Invoice Manager is a PHP-based web application designed to help users efficiently manage their invoices. The application allows users to create, update, and securely store invoice details. New users can register with a unique username and password, ensuring that their invoices are managed securely.
 
 ## 1. What additional code would be required for the Invoice Manager application to accept multiple different file types?
 In "accept" attribute there should be more than one file type such as ".pdf",".jpg" and so on.
